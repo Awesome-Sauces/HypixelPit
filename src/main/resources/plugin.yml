@@ -1,0 +1,7 @@
+name: HypixelPit
+version: 1.0
+author: AwesomeSauce
+main: me.alpha.kitpvp.KitPvP
+api-version: 1.8
+
+depend: [Multiverse-Core,Citizens,HolographicDisplays,NametagEdit, BossBarAPI]
